@@ -1,0 +1,14 @@
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\bin\Debug\net6.0\Generic.Repository.deps.json
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\bin\Debug\net6.0\Generic.Repository.runtimeconfig.json
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\bin\Debug\net6.0\Generic.Repository.dll
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\bin\Debug\net6.0\ref\Generic.Repository.dll
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\bin\Debug\net6.0\Generic.Repository.pdb
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\obj\Debug\net6.0\Generic.Repository.csproj.AssemblyReference.cache
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\obj\Debug\net6.0\Generic.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\obj\Debug\net6.0\Generic.Repository.AssemblyInfoInputs.cache
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\obj\Debug\net6.0\Generic.Repository.AssemblyInfo.cs
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\obj\Debug\net6.0\Generic.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\obj\Debug\net6.0\Generic.Repository.dll
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\obj\Debug\net6.0\ref\Generic.Repository.dll
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\obj\Debug\net6.0\Generic.Repository.pdb
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Repository\obj\Debug\net6.0\Generic.Repository.genruntimeconfig.cache

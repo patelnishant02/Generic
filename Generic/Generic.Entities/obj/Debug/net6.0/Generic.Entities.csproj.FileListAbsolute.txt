@@ -1,0 +1,17 @@
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\bin\Debug\net6.0\Generic.Entities.deps.json
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\bin\Debug\net6.0\Generic.Entities.runtimeconfig.json
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\bin\Debug\net6.0\Generic.Entities.dll
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\bin\Debug\net6.0\ref\Generic.Entities.dll
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\bin\Debug\net6.0\Generic.Entities.pdb
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\bin\Debug\net6.0\Generic.Repository.dll
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\bin\Debug\net6.0\Generic.Repository.pdb
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\Generic.Entities.csproj.AssemblyReference.cache
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\Generic.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\Generic.Entities.AssemblyInfoInputs.cache
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\Generic.Entities.AssemblyInfo.cs
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\Generic.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\Generic.Entities.csproj.CopyComplete
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\Generic.Entities.dll
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\ref\Generic.Entities.dll
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\Generic.Entities.pdb
+C:\Users\pca56\Desktop\TEAM PM\Generic\Generic.Entities\obj\Debug\net6.0\Generic.Entities.genruntimeconfig.cache
